@@ -1,8 +1,9 @@
 var computer = {
     price: 29000,
-    storage: '256gb',
+    storage: '256 gb',
     color: 'silver',
-    processor: 'intel i5'
+    processor: 'intel i5',
+    ram: '8 gb'
 }
 
 // console.log(computer);
@@ -13,7 +14,6 @@ var computerPrice = computer.price;
 computer.price = 22000;
 // console.log(computer);
 // console.log(computerPrice);
-
 
 // different ways to set a value of an object property
 var priceProperty = "price";

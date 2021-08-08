@@ -1,17 +1,18 @@
 // function declaration
-function startFan() {
+function startAc() {
     console.log('walk towards the switch')
     console.log('press the switch');
+    console.log('Cooooool!!!')
 }
 
 // call the function
-startFan();
-
+startAc();
 console.log('eat breakfast');
 console.log('Drink tea');
 console.log('take a shower');
-// startFan();
+
+// startAc();
 var country = "bd";
 var city = 'Dhaka';
 var location = 'Gulisthan';
-startFan();
+startAc();

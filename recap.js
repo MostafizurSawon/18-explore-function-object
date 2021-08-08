@@ -21,6 +21,7 @@ else {
 }
 
 // 4. Loop
+
 // while loop
 var i = 0; // loop variable
 while (i < 15) {
